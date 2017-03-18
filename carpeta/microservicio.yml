@@ -4,3 +4,7 @@
   ap: martinez
   am: lop
   edad: 25
+  eureka:
+    client:
+      serviceUrl:
+        defaultZone: http://localhost:9000/eureka/
